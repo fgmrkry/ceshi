@@ -1,0 +1,16 @@
+{
+    "name": "Vceshi",
+    "description": "Deploy ceshi on Heroku.",
+    "keywords": [
+        "Vy"
+    ],
+    "env": {
+        "PORT": {
+            "description": "V2Ray UUID",
+            "value": "80"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
